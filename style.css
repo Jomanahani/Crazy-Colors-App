@@ -53,6 +53,7 @@ section button {
   padding: 1rem;
   margin: 0.7rem 0;
   outline: none;
+  cursor: pointer;
 }
 section p {
   text-align: center;
